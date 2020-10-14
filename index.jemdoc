@@ -10,7 +10,7 @@ Systems Control and Automation Group \n
 No.2 South TaiBai Road \n
 Xi'an 710071, China \n
 Phone: \+86 187 9292 2961 \n
-E-post: wangcongxidian@163.com, congwang0705@gmail.com, wangc0705@stu.xidian.edu.cn\n
+E-post: wangcongxidian@163.com （domestic), congwang0705@gmail.com (overseas), wangc0705@stu.xidian.edu.cn\n
 [https://scholar.google.com/citations?user=5bCRqnkAAAAJ&hl=zh-CN *Google Scholar Profile*], [https://www.researchgate.net/profile/Cong_Wang63 *Research Gate Profile*],   [https://www.linkedin.com/in/cong-wang-2310b314b/ *LinkedIn Profile*]
 ~~~
 
@@ -20,25 +20,29 @@ I am currently a Ph.D. candidate under the supervision of Professors [https://we
 I was a Visiting Ph.D. Student (Co-advisor: Professor [http://www.ece.ualberta.ca/~pedrycz/ Witold Pedrycz]) in the Department of Electrical and Computer Engineering, University of Alberta, Edmonton, AB, Canada.
 I was also a Research Assistant (Co-advisor: Assistant Professor [https://junzhaogroupntu.github.io/ Jun Zhao]) at the School of Computer Science and Engineering, Nanyang Technological University, Singapore.
 I am currently a Visiting Ph.D. Student (Co-advisor: Professor [https://robotics.nus.edu.sg/sge/ Shuzhi Sam Ge]) in the Department of Electrical and Computer Engineering, National University of Singapore, Singapore.
-My research interests include Fuzzy theory, wavelet analysis and its applications, pattern recognition and image processing, granular computing, as well as computer vision. I am a member of China Society for Industrial and Applied Mathematics (CSIAM). [PDF/cv.pdf A brief cv is found here].
-== Research
-My research interests include
-- Wavelet Analysis and Its Applications
-- Fuzzy Theory and Its Applications
-- Machine Learning
-- Pattern Recognition and Image Processing
-- Computer Vision
-- Granular Computing
+My research interests include fuzzy theory, wavelet analysis, pattern recognition, granular computing, image processing, and computer vision. I am a member of China Society for Industrial and Applied Mathematics (CSIAM). \n
+[PDF/cv.pdf A brief cv is found here].
+== Recent events
 
-[research.html Find out more].
+{Simple block}
+~~~
+- Our source codes will be released publicly as soon as possible (after polishing)
+- In October 2020, my homepage has been issued
+- In September 2020, my three papers have been accepted by IEEE TFS and IEEE/CAA JAS
+~~~
+
 === Recent Publications 
 . *Cong Wang*, Witold Pedrycz, Zhiwu Li, Mengchu Zhou, and Jun Zhao, ``Residual-sparse Fuzzy C-Means clustering incorporating morphological reconstruction and wavelet frame,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.3029296. (In press, SCI Q1, IF: 9.518, Full Paper) \[[PDF/LRFCM.pdf pdf]\]
-. *Cong Wang*, Witold Pedrycz, Zhiwu Li, Mengchu Zhou, and Shuzhi Sam Ge, ``G-image segmentation: Similarity-preserving Fuzzy C-Means with spatial information constraint in wavelet space,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.3029285. (In press, SCI Q1, IF: 9.518, Full Paper)
-. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou, ``Residual-driven Fuzzy C-Means clustering for image segmentation,'' /*IEEE\/CAA Journal of Automatica Sinica*/, to be published, doi: 10.1109/JAS.2020.1003420. (In press, SCI Q1, IF: 5.129, Regular Paper)
-. *Cong Wang*, Witold Pedrycz, Mengchu Zhou, and Zhiwu Li, ``Sparse regularization-based Fuzzy C-Means clustering incorporating morphological grayscale reconstruction and wavelet frames,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.2985930. (In press, SCI Q1, IF: 9.518, Full Paper)
-. *Cong Wang*, Ziyue Yan, Witold Pedrycz, Mengchu Zhou, and Zhiwu Li, ``A weighted fidelity and regularization-based method for mixed or unknown noise removal from images on graphs,'' /*IEEE Transactions on Image Processing*/, vol. 29, no. 1, pp. 5229–5243, Dec. 2020. (SCI Q1, IF: 9.34, Regular Paper)
-. *Cong Wang*, Witold Pedrycz, Jianbin Yang, Mengchu Zhou, and Zhiwu Li, ``Wavelet frame-based Fuzzy C-Means clustering for segmenting images on graphs,'' /*IEEE Transactions on Cybernetics*/, vol. 50, no. 9, pp. 3938–3949, Sept. 2020. (SCI Q1, IF: 11.079, Regular Paper)
-. *Cong Wang\* *, Jijxing Chen, Zhiwu Li, Emad S. Abouel Nasr, and Abdulaziz Mohammed El-Tamimi, ``An indicator system for evaluating the development of land-sea coordination systems: A case study of Lianyungang port,'' /*Ecological Indicators*/, vol. 98, pp. 112–120, 2019. (SCI Q1, IF: 4.229, Regular Paper)
-. *Cong Wang* and Jianbin Yang, ``Poisson noise removal of images on graphs using tight wavelet frames,'' /*The Visual Computer*/, vol. 34, no. 10, pp. 1357–1369, 2018. (SCI Q3, WOS: 000442204400007, IF: 1.415, Regular Paper)
+. *Cong Wang*, Witold Pedrycz, Zhiwu Li, Mengchu Zhou, and Shuzhi Sam Ge, ``G-image segmentation: Similarity-preserving Fuzzy C-Means with spatial information constraint in wavelet space,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.3029285. (In press, SCI Q1, IF: 9.518, Full Paper) \[[PDF/SFCM.pdf pdf]\]
+. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou, ``Residual-driven Fuzzy C-Means clustering for image segmentation,'' /*IEEE\/CAA Journal of Automatica Sinica*/, to be published, doi: 10.1109/JAS.2020.1003420. (In press, SCI Q1, IF: 5.129, Regular Paper) \[[PDF/RFCM.pdf pdf]\]
+. *Cong Wang*, Witold Pedrycz, Mengchu Zhou, and Zhiwu Li, ``Sparse regularization-based Fuzzy C-Means clustering incorporating morphological grayscale reconstruction and wavelet frames,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.2985930. (In press, SCI Q1, IF: 9.518, Full Paper) \[[PDF/SRFCM.pdf pdf]\]
+. *Cong Wang*, Ziyue Yan, Witold Pedrycz, Mengchu Zhou, and Zhiwu Li, ``A weighted fidelity and regularization-based method for mixed or unknown noise removal from images on graphs,'' /*IEEE Transactions on Image Processing*/, vol. 29, no. 1, pp. 5229–5243, Dec. 2020. (SCI Q1, IF: 9.34, Regular Paper) \[[PDF/09011745.pdf pdf]\]
+. *Cong Wang*, Witold Pedrycz, Jianbin Yang, Mengchu Zhou, and Zhiwu Li, ``Wavelet frame-based Fuzzy C-Means clustering for segmenting images on graphs,'' /*IEEE Transactions on Cybernetics*/, vol. 50, no. 9, pp. 3938–3949, Sept. 2020. (SCI Q1, IF: 11.079, Regular Paper) \[[PDF/WFCM.pdf pdf]\]
+. *Cong Wang\* *, Jijxing Chen, Zhiwu Li, Emad S. Abouel Nasr, and Abdulaziz Mohammed El-Tamimi, ``An indicator system for evaluating the development of land-sea coordination systems: A case study of Lianyungang port,'' /*Ecological Indicators*/, vol. 98, pp. 112–120, 2019. (SCI Q1, IF: 4.229, Regular Paper) \[[PDF/Ecological.pdf pdf]\]
+. *Cong Wang* and Jianbin Yang, ``Poisson noise removal of images on graphs using tight wavelet frames,'' /*The Visual Computer*/, vol. 34, no. 10, pp. 1357–1369, 2018. (SCI Q3, WOS: 000442204400007, IF: 1.415, Regular Paper) \[[PDF/Poissonremoval.pdf pdf]\]
+. Jianbin Yang and *Cong Wang*, ``A wavelet frame approach for removal of mixed Gaussian and impulse noise on surfaces,'' /*Inverse Problems and Imaging*/, vol. 11, no. 5, pp. 783–798, 2017. (SCI Q1, WOS: 000411945300001, IF: 1.465, Regular Paper) \[[PDF/impulseremoval.pdf pdf]\]
 
 [publications.html Full list of publications].
+
+
+Last updated: 10/2020.

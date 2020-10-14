@@ -2,27 +2,28 @@
 =Publications
 
 Note that * represents Corresponding author. Here is a full list of my publications:
+== Upcoming
+. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou, ``Residual-driven Fuzzy C-Means clustering for image segmentation with Poisson and mixed Poisson-Gaussian noise,'' /*IEEE Transactions on Fuzzy Systems*/, 2020. (SCI Q1, IF: 9.518, Full Paper)
+. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou, ``Partition-sparse Fuzzy C-Means with Spatial Information and Wavelet Kernel for G-image Segmentation,'' /*IEEE Transactions on Cybernetics*/, 2020. (SCI Q1, IF: 11.079, Regular Paper)
+. Jianbin Yang, Hui Hou, and *Cong Wang*, ``A feature-driven variational model for mesh denoising,'' /*IEEE Transactions on Visualization and Computer Graphics*/, 2020. (SCI Q1, IF: 3.78, Regular Paper)
 
 == Submitted
-. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou. Residual-driven Fuzzy C-Means for image segmentation with Poisson and mixed Poisson-Gaussian noise. /*IEEE Transactions on Fuzzy Systems*/, 2020. (Submitted, SCI, IF: 9.518, Full Paper)
-. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou. Partition-sparse Fuzzy C-Means with Spatial Information and Wavelet Kernel for G-image Segmentation. /*IEEE Transactions on Cybernetics*/, 2020. (Submitted, SCI, IF: 11.079, Regular Paper)
-. *Cong Wang*, Mengchu Zhou, Witold Pedrycz, and Zhiwu Li. Comparative study on noise-estimation-based Fuzzy C-Means for image segmentation. /*IEEE Transactions on Fuzzy Systems*/, 2020. (Submitted, SCI, IF: 9.518, Full Paper)
-. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou. Kullback-Leibler divergence-based Fuzzy C-Means clustering incorporating morphological reconstruction and wavelet frames for image segmentation. /*IEEE Transactions on Cybernetics*/, 2020. (Submitted, SCI, IF: 11.079, Regular Paper)
-. Tailong Jing, *Cong Wang*, Witold Pedrycz, Zhiwu Li, Giancarlo Succi, and Mengchu Zhou. Granular models as networks of associations of information granules: A development through augmented principle of justifiable granularity. /*IEEE Transactions on Fuzzy Systems*/, 2020. (Submitted, SCI, IF: 9.518, Full Paper)
-. Jianbin Yang, Hui Hou, *Cong Wang*. A feature-driven variational model for mesh denoising. /*IEEE Transactions on Visualization and Computer Graphics*/, 2020. (Submitted, SCI, IF: 3.78, Regular Paper)
+. *Cong Wang*, Mengchu Zhou, Witold Pedrycz, and Zhiwu Li, ``Comparative study on noise-estimation-based Fuzzy C-Means for image segmentation,'' /*IEEE Transactions on Fuzzy Systems*/, 2020. (SCI Q1, IF: 9.518, Full Paper)
+. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou, ``Kullback-Leibler divergence-based Fuzzy C-Means clustering incorporating morphological reconstruction and wavelet frames for image segmentation,'' /*IEEE Transactions on Cybernetics*/, 2020. (SCI Q1, IF: 11.079, Regular Paper)
+. Tailong Jing, *Cong Wang*, Witold Pedrycz, Zhiwu Li, Giancarlo Succi, and Mengchu Zhou, ``Granular models as networks of associations of information granules: A development through augmented principle of justifiable granularity,'' /*IEEE Transactions on Fuzzy Systems*/, 2020. (SCI Q1, IF: 9.518, Full Paper)
 
 
 == International Journal Papers
 . *Cong Wang*, Witold Pedrycz, Zhiwu Li, Mengchu Zhou, and Jun Zhao, ``Residual-sparse Fuzzy C-Means clustering incorporating morphological reconstruction and wavelet frame,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.3029296. (In press, SCI Q1, IF: 9.518, Full Paper) \[[PDF/LRFCM.pdf pdf]\]
-. *Cong Wang*, Witold Pedrycz, Zhiwu Li, Mengchu Zhou, and Shuzhi Sam Ge, ``G-image segmentation: Similarity-preserving Fuzzy C-Means with spatial information constraint in wavelet space,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.3029285. (In press, SCI Q1, IF: 9.518, Full Paper)
-. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou, ``Residual-driven Fuzzy C-Means clustering for image segmentation,'' /*IEEE\/CAA Journal of Automatica Sinica*/, to be published, doi: 10.1109/JAS.2020.1003420. (In press, SCI Q1, IF: 5.129, Regular Paper)
-. *Cong Wang*, Witold Pedrycz, Mengchu Zhou, and Zhiwu Li, ``Sparse regularization-based Fuzzy C-Means clustering incorporating morphological grayscale reconstruction and wavelet frames,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.2985930. (In press, SCI Q1, IF: 9.518, Full Paper)
-. *Cong Wang*, Ziyue Yan, Witold Pedrycz, Mengchu Zhou, and Zhiwu Li, ``A weighted fidelity and regularization-based method for mixed or unknown noise removal from images on graphs,'' /*IEEE Transactions on Image Processing*/, vol. 29, no. 1, pp. 5229–5243, Dec. 2020. (SCI Q1, IF: 9.34, Regular Paper)
-. *Cong Wang*, Witold Pedrycz, Jianbin Yang, Mengchu Zhou, and Zhiwu Li, ``Wavelet frame-based Fuzzy C-Means clustering for segmenting images on graphs,'' /*IEEE Transactions on Cybernetics*/, vol. 50, no. 9, pp. 3938–3949, Sept. 2020. (SCI Q1, IF: 11.079, Regular Paper)
-. *Cong Wang\* *, Jijxing Chen, Zhiwu Li, Emad S. Abouel Nasr, and Abdulaziz Mohammed El-Tamimi, ``An indicator system for evaluating the development of land-sea coordination systems: A case study of Lianyungang port,'' /*Ecological Indicators*/, vol. 98, pp. 112–120, 2019. (SCI Q1, IF: 4.229, Regular Paper)
-. *Cong Wang* and Jianbin Yang, ``Poisson noise removal of images on graphs using tight wavelet frames,'' /*The Visual Computer*/, vol. 34, no. 10, pp. 1357–1369, 2018. (SCI Q3, WOS: 000442204400007, IF: 1.415, Regular Paper)
-. Jianbin Yang and *Cong Wang*, ``A wavelet frame approach for removal of mixed Gaussian and impulse noise on surfaces,'' /*Inverse Problems and Imaging*/, vol. 11, no. 5, pp. 783–798, 2017. (SCI Q1, WOS: 000411945300001, IF: 1.465, Regular Paper)
-. Dongmei Ma and *Cong Wang\**, ``Removal of mixed Gaussian and impulse noise using data-driven tight frames,'' /*Journal of Engineering Science and Technology Review*/, vol. 11, no. 2, pp. 26–31, 2018. (EI No. 20182405313426)
+. *Cong Wang*, Witold Pedrycz, Zhiwu Li, Mengchu Zhou, and Shuzhi Sam Ge, ``G-image segmentation: Similarity-preserving Fuzzy C-Means with spatial information constraint in wavelet space,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.3029285. (In press, SCI Q1, IF: 9.518, Full Paper) \[[PDF/SFCM.pdf pdf]\]
+. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou, ``Residual-driven Fuzzy C-Means clustering for image segmentation,'' /*IEEE\/CAA Journal of Automatica Sinica*/, to be published, doi: 10.1109/JAS.2020.1003420. (In press, SCI Q1, IF: 5.129, Regular Paper) \[[PDF/RFCM.pdf pdf]\]
+. *Cong Wang*, Witold Pedrycz, Mengchu Zhou, and Zhiwu Li, ``Sparse regularization-based Fuzzy C-Means clustering incorporating morphological grayscale reconstruction and wavelet frames,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.2985930. (In press, SCI Q1, IF: 9.518, Full Paper) \[[PDF/SRFCM.pdf pdf]\]
+. *Cong Wang*, Ziyue Yan, Witold Pedrycz, Mengchu Zhou, and Zhiwu Li, ``A weighted fidelity and regularization-based method for mixed or unknown noise removal from images on graphs,'' /*IEEE Transactions on Image Processing*/, vol. 29, no. 1, pp. 5229–5243, Dec. 2020. (SCI Q1, IF: 9.34, Regular Paper) \[[PDF/09011745.pdf pdf]\]
+. *Cong Wang*, Witold Pedrycz, Jianbin Yang, Mengchu Zhou, and Zhiwu Li, ``Wavelet frame-based Fuzzy C-Means clustering for segmenting images on graphs,'' /*IEEE Transactions on Cybernetics*/, vol. 50, no. 9, pp. 3938–3949, Sept. 2020. (SCI Q1, IF: 11.079, Regular Paper) \[[PDF/WFCM.pdf pdf]\]
+. *Cong Wang\* *, Jijxing Chen, Zhiwu Li, Emad S. Abouel Nasr, and Abdulaziz Mohammed El-Tamimi, ``An indicator system for evaluating the development of land-sea coordination systems: A case study of Lianyungang port,'' /*Ecological Indicators*/, vol. 98, pp. 112–120, 2019. (SCI Q1, IF: 4.229, Regular Paper) \[[PDF/Ecological.pdf pdf]\]
+. *Cong Wang* and Jianbin Yang, ``Poisson noise removal of images on graphs using tight wavelet frames,'' /*The Visual Computer*/, vol. 34, no. 10, pp. 1357–1369, 2018. (SCI Q3, WOS: 000442204400007, IF: 1.415, Regular Paper) \[[PDF/Poissonremoval.pdf pdf]\]
+. Jianbin Yang and *Cong Wang*, ``A wavelet frame approach for removal of mixed Gaussian and impulse noise on surfaces,'' /*Inverse Problems and Imaging*/, vol. 11, no. 5, pp. 783–798, 2017. (SCI Q1, WOS: 000411945300001, IF: 1.465, Regular Paper) \[[PDF/impulseremoval.pdf pdf]\]
+. Dongmei Ma and *Cong Wang\**, ``Removal of mixed Gaussian and impulse noise using data-driven tight frames,'' /*Journal of Engineering Science and Technology Review*/, vol. 11, no. 2, pp. 26–31, 2018. (EI No. 20182405313426) \[[PDF/fulltext51122018.pdf pdf]\]
 
 == International Conference Papers
 . Jianbin Yang, Enlin Zhang, and *Cong Wang*, ``Color image segmentation via wavelet frames,'' /In: Proceedings of the 2019 IEEE 4th International Conference on Signal and Image Processing (ICSIP)/, Wuxi, China, 2019, pp. 975-979, doi: 10.1109/SIPROCESS.2019.8868564. (INSPEC Accession Number: 19077941)
@@ -30,10 +31,17 @@ Note that * represents Corresponding author. Here is a full list of my publicati
 . Jianyong Zhang and *Cong Wang*, ``Application of ARMA model in ultra-short term prediction of wind power,'' /In: Proceedings of 2013 International Conference on Computer Sciences and Applications/, Wuhan, 2013, pp. 361-364, doi: 10.1109/CSA.2013.91. (INSPEC Accession Number: 14395697)
 
 == National Journal Papers
-. *Cong Wang*, Jianbin Yang, and Ying Deng. Application of mathematical modeling methods in wind-power prediction. Acta Energiae Solaris Sinica, 2015, 36(5): 1081–1087. (EI No. 20153001062255)
-. *Cong Wang\* *. Data-driven tight frame based image restoration with Poisson noise. Information Technology, 2017, 9: 71–75. ( in Chinese)
-. Xiaohui Li and *Cong Wang\* *. Wavelet Frame Based Nonlocal Surface Fairing. Electronic Design Engineering, 2017, 20(5): 178–181. (Corresponding author, in Chinese)
-. Ying Deng and *Cong Wang\* *. Applications on maximum power point tracking for photovoltaic off-grid system based on particle swarm optimization algorithm under partial shaded conditions. Journal of Nanjing University of Information Science and Technology, 2017, 9(1): 106–112. (Corresponding author, in Chinese)
-. Yu Feng and *Cong Wang\* *. Research on combination forecasting model in outstanding of deposits forecast. Economic Research Guide, 2018, 14: 146–150. (Corresponding author, in Chinese)
-. Lijing Fan and *Cong Wang\* *. Application of data-driven tight frame in gray image denoising. Electronic Design Engineering, 2017, 25(15): 180–183. (Corresponding author, in Chinese)
-. Lin Du and *Cong Wang\* *. Data-driven tight frame based image restoration. Electronic Design Engineering, 2017, 25(22): 178–181. (Corresponding author, in Chinese)
+. *Cong Wang*, Jianbin Yang, and Ying Deng. Application of mathematical modeling methods in wind-power prediction. Acta Energiae Solaris Sinica, 2015, 36(5): 1081–1087. (EI No. 20153001062255) \n
+  王聪, 杨建斌, 邓颖. 数学建模方法在风电功率预测中的应用\[J\]. 太阳能学报, 2015, 36(5): 1081-1087.
+. *Cong Wang\* *. Data-driven tight frame based image restoration with Poisson noise. Information Technology, 2017, 9: 71–75. (in Chinese) \n
+  王聪. 基于数据驱动紧框架的含泊松噪声的图像恢复\[J\]. 信息技术, 2017, 41(9): 71-75.
+. Xiaohui Li and *Cong Wang\* *. Wavelet Frame Based Nonlocal Surface Fairing. Electronic Design Engineering, 2017, 20(5): 178–181. (in Chinese) \n
+  李晓慧, 王聪. 基于小波框架的非局部曲面去噪\[J\]. 电子设计工程, 2017, 25(10): 178-181, 185.
+. Ying Deng and *Cong Wang\* *. Applications on maximum power point tracking for photovoltaic off-grid system based on particle swarm optimization algorithm under partial shaded conditions. Journal of Nanjing University of Information Science and Technology, 2017, 9(1): 106–112. (in Chinese) \n
+  邓颖, 王聪. 局部遮阴下粒子群算法在光伏离网系统最大功率点跟踪中的应用\[J\]. 南京信息工程大学学报: 自然科学版, 2017, 9(1): 106-112.
+. Yu Feng and *Cong Wang\* *. Research on combination forecasting model in outstanding of deposits forecast. Economic Research Guide, 2018, 14: 146–150. (in Chinese) \n
+  冯宇, 王聪. 金融机构存款预测的组合预测模型研究\[J\]. 经济研究导刊, 2018, 14: 146–150.
+. Lijing Fan and *Cong Wang\* *. Application of data-driven tight frame in gray image denoising. Electronic Design Engineering, 2017, 25(15): 180–183. (in Chinese) \n
+  范立静, 王聪. 数据驱动紧框架在灰色图像去噪中的应用\[J\]. 电子设计工程, 2017 (15): 180-183.
+. Lin Du and *Cong Wang\* *. Data-driven tight frame based image restoration. Electronic Design Engineering, 2017, 25(22): 178-181. (in Chinese) \n
+  杜淋, 王聪. 基于数据驱动紧框架的图像恢复\[J\]. 电子设计工程, 2017, 22: 184-187.
