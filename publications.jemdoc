@@ -3,9 +3,10 @@
 
 Note that the asterisk * represents the corresponding author. Here is a full list of my publications:
 == To Be Submitted
-. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou, ``Residual-driven Fuzzy C-Means clustering for image segmentation with Poisson and mixed Poisson-Gaussian noise,'' /*IEEE Transactions on Fuzzy Systems*/, 2020. (SCI Q1, IF: 9.518, Full Paper)
-. *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou, ``Partition-sparse Fuzzy C-Means with spatial information and wavelet kernel for G-image segmentation,'' /*IEEE Transactions on Cybernetics*/, 2020. (SCI Q1, IF: 11.079, Regular Paper)
-. Jianbin Yang, Hui Hou, and *Cong Wang*, ``A feature-driven variational model for mesh denoising,'' /*IEEE Transactions on Visualization and Computer Graphics*/, 2020. (SCI Q1, IF: 3.78, Regular Paper)
+. *Cong Wang*, Mengchu Zhou\*, Witold Pedrycz, and Zhiwu Li\*, ``G-image segmentation: A Fuzzy C-Means clustering framework,'' /*IEEE Transactions on Pattern Analysis and Machine Intelligence*/, 2020. (SCI Q1, IF: 17.861, Regular Paper)
+. *Cong Wang*, Mengchu Zhou\*, Witold Pedrycz, and Zhiwu Li\*, ``Residual-driven Fuzzy C-Means clustering for image segmentation with Poisson and mixed Poisson-Gaussian noise,'' /*IEEE Transactions on Fuzzy Systems*/, 2020. (SCI Q1, IF: 9.518, Full Paper)
+. *Cong Wang*, Mengchu Zhou\*, Witold Pedrycz, and Zhiwu Li\*, ``G-image segmentation: Partition-sparse Fuzzy C-Means clustering incorporating spatial information and wavelet frame,'' /*IEEE Transactions on Cybernetics*/, 2020. (SCI Q1, IF: 11.079, Regular Paper)
+. Jianbin Yang\*, Hui Hou, and *Cong Wang*, ``A feature-driven variational model for mesh denoising,'' /*IEEE Transactions on Visualization and Computer Graphics*/, 2020. (SCI Q1, IF: 3.78, Regular Paper)
 
 == Submitted and Under Review
 . *Cong Wang*, Mengchu Zhou\*, Witold Pedrycz, and Zhiwu Li\*, ``Comparative study on noise-estimation-based Fuzzy C-Means for image segmentation,'' /*IEEE Transactions on Fuzzy Systems*/, 2020. (SCI Q1, IF: 9.518, Full Paper)
