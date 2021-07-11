@@ -29,7 +29,8 @@ I am currently a postdoctoral fellow under the supervision of Professor [http://
 - In September 2020, my three papers have been accepted by IEEE TFS and IEEE/CAA JAS
 ~~~
 
-=== Recent Publications 
+=== Recent Publications
+. *Cong Wang*, Witold Pedrycz, Zhiwu Li\*, and Mengchu Zhou\*, ``Kullback-Leibler divergence-based Fuzzy C-Means clustering incorporating morphological reconstruction and wavelet frames for image segmentation,'' /*IEEE Transactions on Cybernetics*/, 2021. (Accepted, SCI Q1, IF: 11.079, Regular Paper)
 . *Cong Wang*, Witold Pedrycz, Zhiwu Li, Mengchu Zhou, and Jun Zhao, ``Residual-sparse Fuzzy C-Means clustering incorporating morphological reconstruction and wavelet frame,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.3029296. (SCI Q1, IF: 9.518, Full Paper) \[[PDF/LRFCM.pdf pdf]\]
 . *Cong Wang*, Witold Pedrycz, Zhiwu Li, Mengchu Zhou, and Shuzhi Sam Ge, ``G-image segmentation: Similarity-preserving Fuzzy C-Means with spatial information constraint in wavelet space,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2020.3029285. (SCI Q1, IF: 9.518, Full Paper) \[[PDF/SFCM.pdf pdf]\]
 . *Cong Wang*, Witold Pedrycz, Mengchu Zhou, and Zhiwu Li, ``Sparse regularization-based Fuzzy C-Means clustering incorporating morphological grayscale reconstruction and wavelet frames,'' /*IEEE Transactions on Fuzzy Systems*/, vol. 29, no. 7, pp. 1826–1840, Jul. 2021. (SCI Q1, IF: 9.518, Full Paper) \[[PDF/SRFCM.pdf pdf]\]
