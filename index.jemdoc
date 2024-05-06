@@ -23,6 +23,8 @@ I was a Visiting Ph.D. Student (Co-advisor: Professor [https://robotics.nus.edu.
 I was also a postdoctoral fellow under the supervision of Professor [http://iopen.nwpu.edu.cn/info/1015/1172.htm Xuelong Li]. I am currently an Associate Professor in the School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University, China. My research interests include information computation, G-image processing, fuzzy theory, as well as wavelet analysis and its applications. I am Associate Editor of IEEE Transactions on Fuzzy Systems and a member of Institute of Electrical and Electronics Engineers (IEEE), Chinese Association of Automation (CAA), China Computer Federation (CCF), China Society for Industrial and Applied Mathematics (CSIAM), Chinese Association for Artificial Intelligence (CAAI), and China Society of Image and Graphics (CSIG).
 == Recent Events
 ~~~
+- In May 2024, one paper has been accepted by IEEE TSMCA
+- In Apr. 2024, one paper has been accepted by IEEE TGRS
 - In Feb. 2024, two papers have been accepted by IEEE TFS
 - In Jan. 2024, one paper has been published in IEEE TCYB
 - Our source codes have been released publicly in [https://github.com/congwang0705 Github]
@@ -31,6 +33,7 @@ I was also a postdoctoral fellow under the supervision of Professor [http://iope
 ~~~
 
 === Recent Publications
+. *Cong Wang*, Guodong Sun, Cailing Wang, Zixuan Gao, and Hongwei Wang\*, ``Monte Carlo-based restoration of images degraded by atmospheric turbulence,'' /*IEEE Transactions on Systems, Man and Cybernetics: Systems*/, accepted, 2024. (SCI Q1, IF: 8.7)
 . *Cong Wang*, Xin Tan, Bo Li\*, and Mengchu Zhou\*, ``Noise-estimation-dominated fuzzy segmentation strategy for accurate implantation of implantable cardioverter defibrillators,'' /*IEEE Transactions on Fuzzy Systems*/, to be published, doi: 10.1109/TFUZZ.2024.3364970. (SCI Q1, IF: 11.9)
 . *Cong Wang*, Mengchu Zhou\*, Witold Pedrycz, and Zhiwu Li\*, ``Comparative study on noise-estimation-based Fuzzy C-Means clustering for image segmentation,'' /*IEEE Transactions on Cybernetics*/, vol. 54, no. 1. pp. 241-253, Jan. 2024. (SCI Q1, IF: 11.8, Regular Paper)
 . *Cong Wang*, Witold Pedrycz, Zhiwu Li\*, and Mengchu Zhou\*, ``Kullback-Leibler divergence-based Fuzzy C-Means clustering incorporating morphological reconstruction and wavelet frames for image segmentation,'' /*IEEE Transactions on Cybernetics*/, vol. 52, no. 8, pp. 7612–7623, Aug. 2022. (SCI Q1, IF: 19.118, Regular Paper)
@@ -40,9 +43,8 @@ I was also a postdoctoral fellow under the supervision of Professor [http://iope
 . *Cong Wang*, Witold Pedrycz, Zhiwu Li, and Mengchu Zhou, ``Residual-driven Fuzzy C-Means clustering for image segmentation,'' /*IEEE\/CAA Journal of Automatica Sinica*/, vol. 8, no. 4, pp. 876–889, Apr. 2021. (SCI Q1, IF: 7.847, Regular Paper) \[[PDF/RFCM.pdf pdf]\]
 . *Cong Wang*, Ziyue Yan, Witold Pedrycz, Mengchu Zhou, and Zhiwu Li, ``A weighted fidelity and regularization-based method for mixed or unknown noise removal from images on graphs,'' /*IEEE Transactions on Image Processing*/, vol. 29, no. 1, pp. 5229–5243, Dec. 2020. (SCI Q1, IF: 10.856, Regular Paper) \[[PDF/09011745.pdf pdf]\]
 . *Cong Wang*, Witold Pedrycz, Jianbin Yang, Mengchu Zhou, and Zhiwu Li, ``Wavelet frame-based Fuzzy C-Means clustering for segmenting images on graphs,'' /*IEEE Transactions on Cybernetics*/, vol. 50, no. 9, pp. 3938–3949, Sept. 2020. (SCI Q1, IF: 11.448, Regular Paper) \[[PDF/WFCM.pdf pdf]\]
-. *Cong Wang\* *, Jijxing Chen, Zhiwu Li, Emad S. Abouel Nasr, and Abdulaziz Mohammed El-Tamimi, ``An indicator system for evaluating the development of land-sea coordination systems: A case study of Lianyungang port,'' /*Ecological Indicators*/, vol. 98, pp. 112–120, 2019. (SCI Q1, IF: 4.229, Regular Paper) \[[PDF/Ecological.pdf pdf]\]
 
 [publications.html Full list of publications].
 
 
-Last updated: 02/2024.
+Last updated: 05/2024.
